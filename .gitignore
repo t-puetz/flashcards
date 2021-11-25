@@ -1,0 +1,9 @@
+# ---> NetBeans
+zig-cache
+nbproject
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+

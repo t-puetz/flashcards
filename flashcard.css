@@ -1,0 +1,49 @@
+.flashcard-label-content {
+    color: #303030;
+    font: bold normal 32px "NotoSansCJK";
+    font-size: 600%;
+    font-stretch: semi-expanded;
+    font-style: oblique;
+    font-weight: bolder;
+    padding: 150px;
+}
+
+.flashcard-frame-content {
+    font-size: 130%;
+    font-stretch: semi-expanded;
+    font-style: oblique;
+    font-weight: bolder;
+    border: 1px dotted black;
+    margin: 20px;
+}
+
+.flashcard-grid-content {
+    padding: 5px;
+    margin: 5px;
+}
+
+.flashcard-fixed-content {
+    border: 1px solid black;
+    padding: 50px;
+}
+
+.flashcard-flip_btn-content {
+    font-size: 120%;
+    font-stretch: semi-expanded;
+    font-weight: bolder;
+    margin: 1px;
+}
+
+.flashcard-fwd_btn-content {
+    font-size: 120%;
+    font-stretch: semi-expanded;
+    font-weight: bolder;
+    margin: 5px;
+}
+
+.flashcard-rev_btn-content {
+    font-size: 120%;
+    font-stretch: semi-expanded;
+    font-weight: bolder;
+    margin: 5px;
+}
